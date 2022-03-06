@@ -1,0 +1,2 @@
+192.168.0.7 v1 comunidadASR 161
+192.168.0.2 v1 comunidadASR 161
